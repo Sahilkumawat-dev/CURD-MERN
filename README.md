@@ -26,7 +26,8 @@ Update: Updates user details dynamically
 Delete: Deletes users with clear confirmation responses
 
 With future scalability in mind, the project supports adding pagination, filtering, and sorting easily, and can be extended for advanced CRUD features such as soft deletes, bulk operations, and authentication.
-# Output:1. <img width="960" height="505" alt="1" src="https://github.com/user-attachments/assets/7e74e49c-9d21-4014-9ef5-b65b345dbc56" />
+# Output:
+1. <img width="960" height="505" alt="1" src="https://github.com/user-attachments/assets/7e74e49c-9d21-4014-9ef5-b65b345dbc56" />
 2. <img width="568" height="333" alt="2" src="https://github.com/user-attachments/assets/f18fddce-fc74-4205-a913-f45ae6e50393" />
 
 3. <img width="587" height="337" alt="3" src="https://github.com/user-attachments/assets/a3b56e7a-daf5-4bda-92b3-06f44f552a32" />
